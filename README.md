@@ -17,4 +17,5 @@
 8.- Instalación de chromadb para poder usar la nueva base vectorial
 
 9.- Ejecuta la aplicación:
-	streamlit run app.py
+	streamlit run appxml2.py para base vectorial Chroma
+ 	streamlit run appxml2.py para base vectorial Faiss
