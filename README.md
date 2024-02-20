@@ -14,5 +14,7 @@
  
 7.- Crea una Clave de API de OpenAI y agrégala a tu archivo .txt y cambia su extensión a .env
 
-8.- Ejecuta la aplicación:
+8.- Instalación de chromadb para poder usar la nueva base vectorial
+
+9.- Ejecuta la aplicación:
 	streamlit run app.py
